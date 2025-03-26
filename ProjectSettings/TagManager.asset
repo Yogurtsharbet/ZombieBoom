@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WaterBlock
+  - FireBlock
+  - ElectricBlock
+  - ExplosiveBlock
+  - WoodBlock
+  - NoneBlock
+  - Death_zone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Block
+  - BlockCenter
+  - BlockHuge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - GSBC
+  - Platform
+  - DeadLine
+  - ScoreZone
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 425917345
+    locked: 0
+  - name: UI_Sub
+    uniqueID: 2976305025
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: block
+    uniqueID: 3834926411
+    locked: 0
+  - name: particle
+    uniqueID: 3945634759
+    locked: 0
+  - name: Map
+    uniqueID: 3774096191
+    locked: 0
+  - name: UI
+    uniqueID: 3307522495
+    locked: 0
