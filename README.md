@@ -20,7 +20,7 @@
 - 게임 장르 : 캐주얼 / 퍼즐
 - 개발 환경 : Unity 2022.3.50 LTS | URP | 2D
 - 프로젝트 기간 : 2024. 11. ~ 2024. 12. ( 8 주 )
-- [👉 Notion](https://east-wrinkle-9ca.notion.site/118b84bb5ebe8023b0cfd3a25485e101)
+- [👉 Notion](https://east-wrinkle-9ca.notion.site/1585ab79c4d980dd9d9ffe4ef296a37d)
 <br/>
 
 > '좀비펑펑화르륵'은 약 8주간 진행된 프로젝트입니다. <br/>
